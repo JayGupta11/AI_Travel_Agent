@@ -107,13 +107,6 @@ The **AI Travel Planner Agent** automates and personalizes the trip planning exp
 
 ---
 
-## 🎓 IBM Certifications
-
-- ✅ **Getting Started with AI (Credly Certificate)**  
-- ✅ **IBM RAG Lab Certificate** *(Attach certificate screenshots in your repo)*  
-
----
-
 📝 **Note:** This AI agent **does not perform actual bookings or handle sensitive data**. It provides travel planning guidance only.
 
 ---
